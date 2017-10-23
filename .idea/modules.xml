@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MagicEightBall.iml" filepath="$PROJECT_DIR$/MagicEightBall.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/magic-ball-android-sitom888.iml" filepath="$PROJECT_DIR$/magic-ball-android-sitom888.iml" />
     </modules>
   </component>
 </project>
